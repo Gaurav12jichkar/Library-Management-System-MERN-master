@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Library Management System 📚
 
 A web app for managing all the activities of a library like managing members and book transactions, built on MERN Stack
@@ -100,3 +101,6 @@ Show some ❤️ and 🌟 the repo to support the project
 ## License 🏆
 
 This repository is licensed under MIT License. Find [LICENSE](LICENSE) to know more
+=======
+# Library-Management-System-MERN-master
+>>>>>>> fdf7ae1b435eaf933934692193e0c77f4f9e8c9d
